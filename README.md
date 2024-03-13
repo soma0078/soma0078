@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn&section=header&text=I'm Soma☺️&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn&section=header&text=I'm Songa☺️&fontAlign=70)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hi+Welcome!👋😊&font=Redressed&size=30)](https://git.io/typing-svg)
 <!--### Hi+Welcome!👋😊-->
