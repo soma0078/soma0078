@@ -1,43 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn&section=header&text=I'm Songa☺️&fontAlign=70)
+## 안녕하세요. 프론트엔드 개발자 이송아입니다. 😊
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hi+Welcome!👋😊&font=Redressed&size=30)](https://git.io/typing-svg)
-<!--### Hi+Welcome!👋😊-->
+> `React`와 `JavaScript`를 활용해 웹 애플리케이션의 기능을 구현하고, 사용자 인터페이스(UI)가 직관적이고 원활하게 작동하도록 개선하고 있습니다. 실용적인 코드 작성과 성능 최적화에 주력하며, 기술을 꾸준히 적용하고 개선하고 있습니다.
+> 
+> 팀원들과 활발히 소통하며 결과물을 개선하고 있습니다. 문제를 해결할 때는 끝까지 해결책을 찾으려고 하고, 어려운 문제는 팀과 함께 해결하는 과정에서 더 성장한다고 느낍니다.
 
-<h3><b>🛠 Tech Stack 🛠</b></h3>
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/jQuery-3776AB?style=for-the-badge&logo=jQuery&logoColor=white"></a> &nbsp
-<!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p> -->
-</br>
-<h3><b>💡 Studying 💡</b></h3>
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/> &nbsp 
-</p>
-    
+#### 🙋‍♀️ Portfolio
 
-<!--
-**soma0078/soma0078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Portfolio Website (Made in 2024)](https://leesonga-portfolio.netlify.app)
 
-Here are some ideas to get you started:
+<!-- #### 📑 Resume -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ #### 🌱 Tech Stacks
+
+- Frontend Skills :
+  - Programming Language : <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  - Framework : <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+  - Bundler : <img src="https://img.shields.io/badge/Vite-A75CE0?style=flat-square&logo=Vite&logoColor=white"/>
+  - style : <img src="https://img.shields.io/badge/Tailwind CSS-38BDF8?style=flat-square&logo=Tailwind CSS&logoColor=white"/> <img src="https://img.shields.io/badge/StyledComponents-CD6799?style=flat-square&logo=StyledComponents&logoColor=white"/> 
+- Communication Tools : <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5A55D6?style=flat-square&logo=Discord&logoColor=white"/> 
+- Design Tools : <img src="https://img.shields.io/badge/Figma-FF3737?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Illustrator-DF730A?style=flat-square&logo=Adobe Illustrator&logoColor=white"/> 
+  <!-- - Want to Learn : <img src="https://img.shields.io/badge/StoryBook-ED56BB?style=flat-square&logo=StoryBook&logoColor=white"/> <img src="https://img.shields.io/badge/Jest-AD2929?style=flat-square&logo=Jest&logoColor=white"/> -->
