@@ -4,11 +4,11 @@
 > 
 > 팀원들과 활발히 소통하며 결과물을 개선하고 있습니다. 문제를 해결할 때는 끝까지 해결책을 찾으려고 하고, 어려운 문제는 팀과 함께 해결하는 과정에서 더 성장한다고 느낍니다.
 
-#### 🙋‍♀️ Portfolio
+<!--  #### 🙋‍♀️ Portfolio
 
 - [Portfolio Website (Made in 2024)](https://leesonga-portfolio.netlify.app)
 
-<!-- #### 📑 Resume -->
+#### 📑 Resume -->
 
  #### 🌱 Tech Stacks
 
