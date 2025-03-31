@@ -6,7 +6,7 @@
 
  #### 🙋‍♀️ Portfolio
 
-- [Portfolio Website (Updated at 2025.03)](https://leesonga-portfolio.netlify.app)
+- <a href="https://leesonga-portfolio.netlify.app" target="_blank">Portfolio Website (Updated at 2025.03)</a>
 
 <!-- 
 #### 📑 Resume -->
